@@ -1,7 +1,7 @@
 ﻿# ListAzureVMs - Minimum Reproduction
 
 Created in support of issue raised on 
-[Azure/azure-sdk-for-net repo](https://github.com/Azure/azure-sdk-for-net) 
+[Azure/azure-sdk-for-net repo (issue 3200)](https://github.com/Azure/azure-sdk-for-net/issues/3200) 
 outlining an issue found with certain Azure Fluent API commands failing when 
 run on Windows Server 2012R2 while working on development boxes on Windows 10.
 
